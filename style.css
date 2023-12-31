@@ -1,0 +1,49 @@
+.nav-downside ul {
+    list-style-type: none;
+    display: flex;
+   justify-content: center;
+
+}
+.nav-downside ul li a{
+    text-decoration: none;
+    margin: 0px 20px;
+    color: black;
+}
+.conainer{
+    margin-top: 180px;
+}
+.inp{
+    width: 500px;
+    height: 40px;
+    border-radius: 10px;
+    padding-left: 10px;
+    border: 1px solid gray;
+}
+.ship ul {
+    list-style-type: none;
+    display: flex;
+}
+.ship ul li a{
+    margin: 0px 10px;
+    color: black;
+}
+.img-fluid{
+    border-radius: 50%;
+}
+h2{
+    width: 20%;
+    margin: 0px auto;
+}
+.main-fluid{
+    display: flex;
+    justify-content: space-between;
+}
+.main-fluid ul li{
+    list-style-type: none;
+    margin: 28px 0px;
+}
+.main-fluid ul li a{
+    text-decoration: none;
+    color: black;
+}
+
